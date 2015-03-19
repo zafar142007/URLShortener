@@ -3,9 +3,9 @@ A simple URL shortener.
 
 Usage:
 
-java LoadURLs -file <file> 
+java LoadURLs -file \<file\> 
 
-java LoadURLs -console <url1> <url2> ...
+java LoadURLs -console \<url1\> \<url2\> ...
 
 If loading as a JAR, use the method getDeflatedURL(String) in the class ShortenURL.
 
